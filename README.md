@@ -6,7 +6,7 @@ This project proved to be good practice in learning the CSS syntax, namely speci
 
 ## Sources
 
-The video used for the landing page was acquired from [Coverr](https://coverr.co/videos/eden-beach-NQDZ1NpKcO) and was compressed using an [online converter](https://www.onlineconverter.com/) website. The images used in this project was taken from Google Images.
+The video used for the landing page was acquired from [Coverr](https://coverr.co/videos/eden-beach-NQDZ1NpKcO) and was compressed using an [online converter](https://www.onlineconverter.com/) website. A favicon from [Favicon.cc](https://www.favicon.cc/?action=icon&file_id=33455) was used for this website. The images used in this project was taken from Google Images.
 
 ## Copyright Disclaimer
 
